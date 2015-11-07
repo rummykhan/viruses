@@ -14,3 +14,11 @@ Trojans/Viruses/Worms/Rootkits Source Code Repository
 			Throwing Data to remote host
 			Accepting commands from remote host(probably its creater)
 			Origin : USA (suspected)
+
+
+
+#Want to Share
++ if anyone want to share the source code he can contact me at
++ rehan_manzoor@outlook.com
++ caprichano@gmail.com
++ fb.com/pkinjector
