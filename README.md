@@ -19,5 +19,3 @@ This is a famous worm that creates shortcut in usb. what was its intention was u
 ## If You Want to Share
 - if anyone want to share the source code he can contact me at
 - rehan_manzoor@outlook.com
-- caprichano@gmail.com
-- fb.com/pkinjector
